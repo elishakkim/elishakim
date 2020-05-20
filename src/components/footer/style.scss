@@ -1,0 +1,47 @@
+.footer {
+  background-color: #7f7979;
+  color: white;
+  font-weight: 500;
+  text-align: center;
+}
+
+.mobile {
+
+  padding-top: 20px;
+  padding-bottom: 12px;
+}
+
+.copyright {
+  padding-bottom: 15px;
+}
+
+.icon {
+  position: relative;
+  margin-right: 8px;
+  font-size: 18px;
+  top: 4px;
+
+}
+
+.link {
+  padding-top: 10px;
+  color: white;
+  top: 3px;
+}
+
+.link:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.arrowUp {
+  padding-top: 10px;
+  color: white;
+  font-size: 22px;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+  font-size: 22px;
+}

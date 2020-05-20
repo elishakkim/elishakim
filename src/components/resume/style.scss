@@ -1,0 +1,123 @@
+div.resume {
+  height: 100%;
+  width: 100%;
+  padding: 1% 8%;
+}
+
+hr {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.resume .row-1 {
+  justify-content: center;
+  flex-direction: row;
+}
+
+section .icon {
+  font-size: 25px;
+  color: #022F40;
+}
+
+section .title {
+  position: relative;
+  font-size: 20px;
+  display: inline;
+  bottom: 3px;
+  font-weight: 500;
+}
+
+.sub {
+  font-size: 17px;
+  font-weight: 500;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.info-sub-detail {
+  padding-bottom: 20px;
+  padding-top: 15px;
+}
+
+.detail {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.info-detail {
+  padding-bottom: 7px;
+}
+
+.education-sub {
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.major {
+  padding-top: 5px;
+  color: #697277;
+  font-size: 15px;
+}
+
+.education-detail {
+  position: relative;
+  padding-bottom: 7px;
+  top: 7px;
+}
+
+.gpa {
+  padding-top: 8px;
+}
+
+.rotate {
+  transform: rotate(0.5turn)
+}
+
+.english-sub {
+  padding-bottom: 12px;
+}
+
+.detail .language {
+  font-size: 14px;
+  position: relative;
+}
+
+.english {
+  padding-bottom: 10px;
+}
+
+.korean {
+  padding-top: 5px;
+}
+
+.front-end {
+  padding-bottom: 65px;
+}
+
+.databases {
+  padding-top: 17px;
+}
+
+.knowledge {
+  padding-top: 10px;
+}
+
+.role {
+  font-weight: 700;
+  padding-bottom: 0px;
+}
+
+.company {
+  font-weight: 400;
+  padding-top: 9px;
+  font-size: 16px;
+}
+
+.date {
+  padding-bottom: 6px;
+}
+
+.job-description {
+  font-size: 16px;
+  font-weight: 400;
+}

@@ -1,0 +1,56 @@
+.col {
+  display: inline;
+}
+
+.picture {
+  width: 400px;
+  padding: 0px
+}
+
+.home-text {
+  font-size: 18px;
+  transform: none;
+}
+
+.social {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  transform: none;
+}
+
+.social a {
+  color: #022F40;
+  margin-left: 12px;
+}
+
+.social a:hover {
+  color: rgb(0, 82, 112)
+}
+
+.line-1{
+  top: 27%;
+  left: 50%;  
+  width: 24em;
+  margin: 0 0;
+  border-right: 2px solid rgba(255,255,255,.75);
+  font-size: 180%;
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  transform: translateY(-50%);    
+}
+
+.anim-typewriter{
+  animation: typewriter 2.3s steps(30) 1s 1 normal both,
+             blinkTextCursor 1s steps(30) infinite normal;
+  padding-top: 0px;
+}
+@keyframes typewriter{
+  from{width: 0;}
+  to{width: 268px;}
+}
+@keyframes blinkTextCursor{
+  from{border-right-color: #393E41;}
+  to{border-right-color: transparent;}
+}
