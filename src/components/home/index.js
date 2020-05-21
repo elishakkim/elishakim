@@ -77,7 +77,7 @@ const Home = (props) => {
 					>
 						<h3 className='line-1 anim-typewriter'>{greetingText()}! I am...</h3>
 						<div className='home-text'>
-							Motivated full-stack developer familiar with a wide range of programming utilities and languages.  Knowledgeable of backend and frontend development requirements. Diligent and meticulous professional  commended for quickly and accurately learning new procedures.
+							A motivated full-stack developer familiar with a wide range of programming utilities and languages.  Knowledgeable of backend and frontend development requirements. Diligent and meticulous professional  commended for quickly and accurately learning new procedures.
 						</div>
 						<div className='social'>
 							<BootstrapTooltip arrow enterDelay={200} leaveDelay={200} placement='bottom' title='Resume'>
