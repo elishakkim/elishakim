@@ -66,7 +66,7 @@ const Home = (props) => {
 					<Col
 						sm={12}
 						md={5}
-						lg={4}
+						lg={3}
 						style={{
 							display: 'flex',
 							flexDirection: 'column',

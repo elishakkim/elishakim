@@ -10,7 +10,7 @@ const Header = (props) => {
       <Container>
         <Row>
           <Col className='col'>
-            <IoIosCode className='logo'size={110} onClick={() => <Redirect to='/' />}/>                  
+            <IoIosCode className='logo' size={120} onClick={() => <Redirect to='/' />}/>                  
           </Col>
           <Col className='col'>
             <h3 className='name'>Elisha Kim</h3>

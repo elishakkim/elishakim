@@ -55,7 +55,7 @@ const StepperBar = (props) => {
       case 1:
         return <Redirect to='/resume' />;
       case 2:
-        return <Redirect to='/contact' />;
+        return <Redirect to='/work' />;
       default:
         return 'Unknown step';
     }
